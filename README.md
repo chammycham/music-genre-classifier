@@ -1,0 +1,1 @@
+A CNN used to classify music genre based on Mel spectrograms using the GTZN dataset. Pre-processing done using Librosa. CNN developed using TensorFlow. Improvements to the neural net still need to be implemented. 
